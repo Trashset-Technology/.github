@@ -76,8 +76,8 @@ Our solutions are cloud-native, ensuring scalability, reliability, and security.
 
 Please feel free to contact us for business questions or to learn more about how our AI, ML, and mobile application solutions can help your business grow.
 
-- **Website:** [www.trashset.com](#)
-- **Email:** info@trashset.com
+- **Website:** [www.trashsettechnology.com](#)
+- **Email:** info@trashsettechnology.com
 - **Phone:** +977-9818212131
 - **Address:** Lazimpath, kathmandu Nepal
 - **Headquater:** Copenhegen, Denmark
